@@ -13,3 +13,4 @@ Fill Missing Data: Populated empty cells in the "simplified_return_reason" colum
 # Project Dashboard
 
 
+![My_Portfolio_](https://github.com/MohamedHamedEL-Sayed/Data-Analystc-using-Power-bi/assets/123799646/dd1f5328-3467-479f-9a3a-e84e3b39237f)
